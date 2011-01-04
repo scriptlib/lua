@@ -1,0 +1,5 @@
+﻿## Interface: 1840
+## Title: Telo's Clock(xrLin修改 2005.12)
+## Notes: 一时钟而已. 帮助命令: << /clock >> 或 << /clock help >> 
+## SavedVariables: ClockState
+Clock.xml

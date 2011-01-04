@@ -1,0 +1,4 @@
+## Interface: 1300
+## Title: Telo's QuickLoot(xrLiNÐÞ¸Ä 2005.12)
+## Notes: Automatically positions the most relevant part of the loot window under your cursor.
+QuickLoot.xml
